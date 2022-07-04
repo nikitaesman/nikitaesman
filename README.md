@@ -36,6 +36,9 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" width="26" height="26" alt="Figma" /></a>
 </p>
 
+<a href="https://www.github.com/nikitaesman" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/nikitaesman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Socials
 
 <p align="left">
