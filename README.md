@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="images/header_1.png">
+<img src="./header_1.png">
 
 #### I,am Front End Developer
 
