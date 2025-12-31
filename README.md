@@ -2,7 +2,7 @@
 
 <img src="./header_1.png">
 
-#### I,am Front End Developer
+#### I,am FullStack Developer
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning new practices, libraries and frameworks
